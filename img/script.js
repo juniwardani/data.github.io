@@ -397,7 +397,6 @@ const students = [
 { name: "MUHAMMAD RIZKY ZAIDAN" , id: "397" },
 { name: "RAKHA NURHAFIDZAN" , id: "398" },
 { name: "M.RIFAT AZIZI RAHMAN" , id: "399" },
-{ name: "USTADZ JUFRI" , id: "400" },
 { name: "ALIYA ANISAH" , id: "401" },
 { name: "FINA MAULINA" , id: "402" },
 { name: "LISA AMELIA" , id: "403" },
