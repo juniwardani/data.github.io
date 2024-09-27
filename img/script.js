@@ -583,7 +583,7 @@ const students = [
 { name: "ARUNA GHAISAN A. F" , id: "583" },
 { name: "FAQIH NAZRIL KHALIF" , id: "584" },
 { name: "GT. DAFA" , id: "585" },
-{ name: "IZZFAHIM ANAGI" , id: "586" },
+{ name: "IZZFAHIM ANAQI" , id: "586" },
 { name: "MUH. AL-FATIH" , id: "587" },
 { name: "M. KANFI ARRAHMAN" , id: "588" },
 { name: "MUHAMMAD MIRZA ALIANDRA" , id: "589" },
