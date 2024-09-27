@@ -503,7 +503,7 @@ const students = [
 { name: "MUHAMMAD AZKA RANENDRA" , id: "503" },
 { name: "SITI FADILLAH" , id: "504" },
 { name: "NUR AULIA SAFITRI" , id: "505" },
-{ name: "RULLITA A2ZAHRA" , id: "506" },
+{ name: "RULLITA AZZAHRA" , id: "506" },
 { name: "NUR AVIFAH TRIYANI" , id: "507" },
 { name: " ALISHA NAILA MIZA" , id: "508" },
 { name: "NADA NURANI ALIANSYAH" , id: "509" },
