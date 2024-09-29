@@ -591,6 +591,7 @@ const students = [
 { name: "M. SULTHAN MALIK" , id: "591" },
 { name: "M. ZAYD RYS ALGHIFARI" , id: "592" },
 { name: "QONITA HANIFA ALMAHIRA" , id: "593" },
+{ name: "SYAQILA SALSABILA SETIAWAN" , id: "594" },
 ];
 
 const tableBody = document.getElementById('table-body');
